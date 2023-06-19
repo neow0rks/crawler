@@ -1,0 +1,15 @@
+{
+  "name": "crawl_phone_number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "crawl": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.6.3"
+  }
+}
