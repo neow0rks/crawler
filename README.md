@@ -1,5 +1,5 @@
 # crawler
-Chạy crawler để crawl post url trước
+Chạy crawler để crawl post url trước:
 scrapy runspider crawl_url.py -a district=thanh-pho-thu-duc
 
 
